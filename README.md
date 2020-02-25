@@ -6,7 +6,7 @@
 
 
 
-## Organizing Literature Lapers inside `Publications`
+## Organizing literature papers inside `Publications`
 - Papers files names should follow that pattern `FirstAuthorName_Year_PaperTitle.pdf` **Without including the underscores**.
 - The Paper file name (pdf name) should be used as the paper key entry in `bib` files.
 - Keep the publications `bib` file updated with the `Publication` content.
