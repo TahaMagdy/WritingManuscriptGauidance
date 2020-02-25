@@ -1,0 +1,77 @@
+\begin{thebibliography}{}
+
+\bibitem[Abuata and Al-Omari, 2016]{Abuata2016RuleBasedAlgorithmFor}
+Abuata, B. and Al-Omari, A. (2016).
+\newblock {A Rule-Based Algorithm for the Detection of Arud Meter in Classical
+  Arabic Poetry}.
+\newblock {\em researchgate.net}.
+
+\bibitem[Agirrezabal et~al., 2017]{Agirrezabal2017ComparisonFeatureBasedNeural}
+Agirrezabal, M., Alegria, I., and Hulden, M. (2017).
+\newblock {A Comparison of Feature-Based and Neural Scansion of Poetry}.
+\newblock {\em Ranlp}.
+
+\bibitem[Al-Diwan, 2013]{diwan}
+Al-Diwan (2013).
+\newblock { \textarabic { الدّيْوَانُ } } \url {
+  https://www.aldiwan.net }.
+
+\bibitem[Alnagdawi et~al., 2013]{Alnagdawi2013FindingArabicPoemMeter}
+Alnagdawi, M.~a., Rashideh, H., and Fahed, A. (2013).
+\newblock {Finding Arabic Poem Meter Using Context Free Grammar}.
+\newblock {\em J. of Commun. {\&} Comput. Eng.}, 3(1):52--59.
+
+\bibitem[Cho et~al., 2014]{Cho2014LearningPhraseRepresentationsUsing}
+Cho, K., Merrienboer, B.~v., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk,
+  H., and Bengio, Y. (2014).
+\newblock Learning phrase representations using {RNN} encoder-decoder for
+  statistical machine translation.
+\newblock {\em preprint arXiv:1406.1078}.
+
+\bibitem[Colah, 2015]{Colah2015UnderstandingLstmNetworks}
+Colah (2015).
+\newblock {Understanding LSTM Networks}.
+
+\bibitem[Dctabudhabi, 2016]{PoetryEncyclopedia2016}
+Dctabudhabi (2016).
+\newblock { \textarabic { المَوسُوعَةُ الشِعْرية } } \url
+  { https://poetry.dctabudhabi.ae }.
+
+\bibitem[Hochreiter and {Urgen Schmidhuber},
+  1997]{Hochreiter1997LongShortTermMemory}
+Hochreiter, S. and {Urgen Schmidhuber}, J. (1997).
+\newblock {Long Short-Term Memory}.
+\newblock {\em Neural Computation}, 9(8):1735--1780.
+
+\bibitem[Huber, 2008]{HuberEighteenthCenturyPoetryArchive}
+Huber, Alexander, e. (2008).
+\newblock {Eighteenth-Century Poetry Archive.}
+
+\bibitem[Kurt and Kara, 2012]{Kurt2012AlgorithmForDetectionAnalysis}
+Kurt, A. and Kara, M. (2012).
+\newblock {An Algorithm for the Detection and Analysis of Arud Meter in Diwan
+  poetry}.
+\newblock {\em Turkish Journal of Electrical Engineering and Computer
+  Sciences}, 20(6):948--963.
+
+\bibitem[Moustafa, 1996]{Moustafa}
+Moustafa, M. (1996).
+\newblock {\textarabic{أهدى سبيل إلى علمى الخليل:
+  العروض والقافية}}.
+
+\bibitem[Potdar et~al., 2017]{Potdar2017ComparativeStudyCategoricalVariable}
+Potdar, K., S., T., and D., C. (2017).
+\newblock {A Comparative Study of Categorical Variable Encoding Techniques for
+  Neural Network Classifiers}.
+\newblock {\em International Journal of Computer Applications}, 175(4):7--9.
+
+\bibitem[Simons, 2017]{Simons201720thEditionEthnologue}
+Simons, G.~F. (2017).
+\newblock {The 20th Edition of Ethnologue}.
+
+\bibitem[Yousef et~al., 2018]{Yousef2018PoemComprehensiveDataset}
+Yousef, W.~A., Ibrahime, O.~M., Madbouly, T.~M., Mahmoud, M.~A., El-Kassas,
+  A.~H., Hassan, A.~O., and Albohy, A.~R. (2018).
+\newblock {Poem Comprehensive Dataset (PCD)}.
+
+\end{thebibliography}
